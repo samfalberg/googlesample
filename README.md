@@ -1,6 +1,4 @@
-This is my epic file and this is my first commit. 
+# About Me
 
-I am making epic changes to thsi epic file.
-
-Adding one last EPIC line.
+This is my about me project. It's not everything* about me, but it's a start.
 
