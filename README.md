@@ -1,11 +1,5 @@
-# About Me
+This is my first repo!
 
-This is my about me project. It's not *everything* about me, but it's a start.
+# Purpose
 
-
-![Picture of pupper](pupper.jpeg)
-
-1
-2
-3
-5
+The purpose of this repo is to learn to use git and GitHub and to kick butt!
